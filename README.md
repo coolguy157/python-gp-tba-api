@@ -1,0 +1,1 @@
+A simple script used to determine which FRC team has the most Gracious Professionalism Awards using [The Blue Alliance API](https://www.thebluealliance.com/apidocs). My alumni team, [FRC 599](https://www.thebluealliance.com/team/599), ended up having the most.
